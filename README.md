@@ -68,4 +68,7 @@ The performance of the model was evaluated using **Mean Squared Error (MSE)** an
 To run the project on your local machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clv-prediction.git
+   git clone To run the project on your local machine:
+
+Clone the repository:
+git clone https://github.com/Faiq-Ali10/Customer-Lifetime-Value-CLV-Prediction
